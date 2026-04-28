@@ -1,0 +1,11 @@
+# Flask → API endpoint
+flask
+# PassportEye → MRZ extraction
+passporteye
+# Tesseract → OCR engine
+pytesseract
+# OpenCV/Pillow → image handling
+opencv-python
+Pillow
+# dotenv → API key/security config
+python-dotenv
