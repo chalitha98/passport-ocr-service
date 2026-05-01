@@ -5,7 +5,11 @@ passporteye
 # Tesseract → OCR engine
 pytesseract
 # OpenCV/Pillow → image handling
-opencv-python
+opencv-python-headless
+numpy
 Pillow
 # dotenv → API key/security config
 python-dotenv
+
+# gunicorn → production WSGI server (boys, we will use this later in production)
+gunicorn
